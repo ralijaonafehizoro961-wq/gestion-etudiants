@@ -2,6 +2,9 @@
 
 Application web de gestion des etudiants en PHP pur + MySQL.
 
+## Aperçue
+![Texte alternatif](screenshots/home.jpg)
+
 ## Technologies
 - PHP 8.1
 - MySQL (PDO)
